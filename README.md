@@ -2,6 +2,8 @@
 
 This container runs OpenMower Mowgli software locally or remotely.
 
+WHen starting with a bare Raspberry Pi 4, start by installing "Raspberry PI OS Lite (64 bits)" with Raspberry Pi Imager.
+
 ## Local
 
 ### Setup
